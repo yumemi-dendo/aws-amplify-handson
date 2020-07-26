@@ -76,7 +76,7 @@
 				"Runtime": "nodejs10.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-boyaki-d-endo-staging-123603-deployment",
+					"S3Bucket": "amplify-boyaki-d-endo-design-151944-deployment",
 					"S3Key": "amplify-builds/createPostAndTimeline-345341642f754b37784a-build.zip"
 				}
 			}
