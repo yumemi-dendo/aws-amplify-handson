@@ -1,0 +1,54 @@
+{
+    "production": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-boyaki-d-endo-production-170022-authRole",
+            "UnauthRoleArn": "arn:aws:iam::414867676510:role/amplify-boyaki-d-endo-production-170022-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::414867676510:role/amplify-boyaki-d-endo-production-170022-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-boyaki-d-endo-production-170022-deployment",
+            "UnauthRoleName": "amplify-boyaki-d-endo-production-170022-unauthRole",
+            "StackName": "amplify-boyaki-d-endo-production-170022",
+            "StackId": "arn:aws:cloudformation:us-east-1:414867676510:stack/amplify-boyaki-d-endo-production-170022/f3cebcb0-ce4c-11ea-bbca-0e765a9edd1f",
+            "AmplifyAppId": "d2qlg3idifocrp"
+        },
+        "categories": {
+            "auth": {
+                "boyakidendoa79e9d12": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2qlg3idifocrp",
+                    "type": "manual"
+                }
+            }
+        }
+    },
+    "staging": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-boyaki-d-endo-staging-123603-authRole",
+            "UnauthRoleArn": "arn:aws:iam::414867676510:role/amplify-boyaki-d-endo-staging-123603-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::414867676510:role/amplify-boyaki-d-endo-staging-123603-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-boyaki-d-endo-staging-123603-deployment",
+            "UnauthRoleName": "amplify-boyaki-d-endo-staging-123603-unauthRole",
+            "StackName": "amplify-boyaki-d-endo-staging-123603",
+            "StackId": "arn:aws:cloudformation:us-east-1:414867676510:stack/amplify-boyaki-d-endo-staging-123603/23f0df50-cef1-11ea-a804-12446ecd5e01",
+            "AmplifyAppId": "d2qlg3idifocrp"
+        },
+        "categories": {
+            "auth": {
+                "boyakidendoa79e9d12": {}
+            },
+            "function": {
+                "createPostAndTimeline": {},
+                "BoyakiDEndoGql": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2qlg3idifocrp",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
