@@ -1,3 +1,8 @@
+AWS Amplify ハンズオン用リポジトリ
+
+https://amplify-sns.workshop.aws/ja/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
